@@ -1,0 +1,8 @@
+b'www.google.com'
+b'www.instagram.com'
+b'www.twitter.com'
+b'www.shopee.com'
+b'www.telegram.com'
+b'www.facebook.com'
+b'www.snapchat.com'
+b'www.yahoo.com'
